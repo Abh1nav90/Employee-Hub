@@ -1,6 +1,6 @@
-# EmployeeHub — Final College Project
+# Employee Hub
 
-A self-contained Go-powered Employee & HR Management web application designed for a college project.
+A self-contained Go-powered Employee & HR Management web application.
 
 ## No database setup
 
@@ -14,7 +14,7 @@ You do **not** need MongoDB, MongoDB Atlas, MySQL, PostgreSQL, a database URL, A
 2. Run:
 
 ```bash
-go run .
+go run main.go
 ```
 
 3. Open `http://localhost:8080`.
@@ -55,4 +55,4 @@ The server automatically creates and uses:
 
 `data/employees.json`, `attendance.json`, `leaves.json`, `payroll.json`, `performance.json`, `tickets.json`, `documents.json`, `events.json`, `onboarding.json`, and `notifications.json`.
 
-This keeps the project portable and easy to demonstrate on a college computer.
+This keeps the project portable and easy to demonstrate.
