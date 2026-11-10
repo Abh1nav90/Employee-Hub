@@ -1,0 +1,30 @@
+[
+  {
+    "category": "IT",
+    "createdAt": "2026-09-18T08:02:07Z",
+    "description": "VPN access is not working.",
+    "employeeName": "Ananya Singh",
+    "id": 1,
+    "priority": "High",
+    "status": "Open",
+    "title": "Laptop access issue"
+  },
+  {
+    "category": "Access",
+    "createdAt": "2026-09-18T08:02:07Z",
+    "description": "Needs access to HR portal.",
+    "employeeName": "Rohan Verma",
+    "id": 2,
+    "priority": "Medium",
+    "status": "In progress",
+    "title": "HR portal access"
+  },
+  {
+    "createdAt": "2026-09-18T08:02:15Z",
+    "employeeName": "Aarav Sharma",
+    "id": 3,
+    "priority": "Low",
+    "status": "Open",
+    "title": "Test ticket"
+  }
+]

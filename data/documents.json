@@ -1,0 +1,26 @@
+[
+  {
+    "createdAt": "2026-09-18T08:02:07Z",
+    "employeeName": "Aarav Sharma",
+    "fileName": "aarav-resume.pdf",
+    "id": 1,
+    "status": "Verified",
+    "type": "Resume"
+  },
+  {
+    "createdAt": "2026-09-18T08:02:07Z",
+    "employeeName": "Priya Mehta",
+    "fileName": "",
+    "id": 2,
+    "status": "Missing",
+    "type": "ID proof"
+  },
+  {
+    "createdAt": "2026-09-18T08:02:07Z",
+    "employeeName": "Ananya Singh",
+    "fileName": "ananya-offer.pdf",
+    "id": 3,
+    "status": "Verified",
+    "type": "Offer letter"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav@example.com",
+    "phone": "9876543210",
+    "department": "Engineering",
+    "position": "Software Engineer",
+    "salary": 75000,
+    "status": "Active",
+    "employmentType": "Full-time",
+    "location": "Bengaluru",
+    "joinDate": "2025-11-18T08:02:07.463394194Z"
+  },
+  {
+    "id": 2,
+    "name": "Priya Mehta",
+    "email": "priya@example.com",
+    "phone": "9876543211",
+    "department": "HR",
+    "position": "HR Manager",
+    "salary": 68000,
+    "status": "Active",
+    "employmentType": "Full-time",
+    "location": "Gurugram",
+    "joinDate": "2026-02-18T08:02:07.463394194Z"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Verma",
+    "email": "rohan@example.com",
+    "phone": "9876543212",
+    "department": "Finance",
+    "position": "Financial Analyst",
+    "salary": 62000,
+    "status": "Inactive",
+    "employmentType": "Full-time",
+    "location": "Mumbai",
+    "joinDate": "2026-05-18T08:02:07.463394194Z"
+  },
+  {
+    "id": 4,
+    "name": "Ananya Singh",
+    "email": "ananya@example.com",
+    "phone": "9876543213",
+    "department": "Engineering",
+    "position": "UI Developer",
+    "salary": 71000,
+    "status": "Active",
+    "employmentType": "Contract",
+    "location": "Hyderabad",
+    "joinDate": "2026-07-18T08:02:07.463394194Z"
+  }
+]

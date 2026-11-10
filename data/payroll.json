@@ -1,0 +1,22 @@
+[
+  {
+    "createdAt": "2026-09-18T08:02:07Z",
+    "deductions": 6500,
+    "employeeName": "Aarav Sharma",
+    "grossSalary": 75000,
+    "id": 1,
+    "month": "2026-09",
+    "netSalary": 68500,
+    "status": "Paid"
+  },
+  {
+    "createdAt": "2026-09-18T08:02:07Z",
+    "deductions": 5900,
+    "employeeName": "Priya Mehta",
+    "grossSalary": 68000,
+    "id": 2,
+    "month": "2026-09",
+    "netSalary": 62100,
+    "status": "Paid"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "createdAt": "2026-09-18T08:02:07Z",
+    "employeeName": "Aarav Sharma",
+    "goal": "Lead a backend improvement",
+    "id": 1,
+    "managerComment": "Consistent delivery and ownership.",
+    "rating": "4 — Strong",
+    "reviewDate": "2026-08-18"
+  },
+  {
+    "createdAt": "2026-09-18T08:02:07Z",
+    "employeeName": "Priya Mehta",
+    "goal": "Improve onboarding process",
+    "id": 2,
+    "managerComment": "Strong people leadership.",
+    "rating": "5 — Exceptional",
+    "reviewDate": "2026-07-18"
+  }
+]

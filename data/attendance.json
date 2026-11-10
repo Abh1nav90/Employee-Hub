@@ -1,0 +1,32 @@
+[
+  {
+    "checkIn": "09:12",
+    "checkOut": "18:03",
+    "createdAt": "2026-09-18T08:02:07Z",
+    "date": "2026-09-18",
+    "employeeId": 1,
+    "employeeName": "Aarav Sharma",
+    "id": 1,
+    "status": "Present"
+  },
+  {
+    "checkIn": "09:01",
+    "checkOut": "18:10",
+    "createdAt": "2026-09-18T08:02:07Z",
+    "date": "2026-09-17",
+    "employeeId": 2,
+    "employeeName": "Priya Mehta",
+    "id": 2,
+    "status": "Present"
+  },
+  {
+    "checkIn": "10:18",
+    "checkOut": "18:30",
+    "createdAt": "2026-09-18T08:02:07Z",
+    "date": "2026-09-16",
+    "employeeId": 4,
+    "employeeName": "Ananya Singh",
+    "id": 3,
+    "status": "Late"
+  }
+]

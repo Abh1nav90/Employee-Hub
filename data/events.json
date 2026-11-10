@@ -1,0 +1,20 @@
+[
+  {
+    "createdAt": "2026-09-18T08:02:07Z",
+    "date": "2026-09-20",
+    "description": "Weekly engineering planning.",
+    "id": 1,
+    "location": "Meeting Room A",
+    "title": "Engineering sync",
+    "type": "Team event"
+  },
+  {
+    "createdAt": "2026-09-18T08:02:07Z",
+    "date": "2026-09-25",
+    "description": "Office holiday.",
+    "id": 2,
+    "location": "Company",
+    "title": "Company holiday",
+    "type": "Holiday"
+  }
+]
